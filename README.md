@@ -20,7 +20,7 @@ pesde install
 cargo install catimg
 ```
 
-### via GitHub [Releases](https://github.com/jiwonz/catimg/releases)
+### via [GitHub Releases](https://github.com/jiwonz/catimg/releases)
 
 ## Special Thanks
 - [icy_sixel](https://github.com/mkrueger/icy_sixel) - Awesome port of libsixel to rust.
