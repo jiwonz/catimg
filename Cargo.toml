@@ -2,6 +2,15 @@
 name = "catimg"
 version = "0.1.0"
 edition = "2024"
+authors = ["jiwonz <me@jiwonz.kr>"]
+description = "Cat and Preview your images directly in terminal using sixel"
+repository = "https://github.com/jiwonz/catimg"
+keywords = ["cat", "preview", "image", "terminal", "sixel"]
+license = "MIT"
+readme = "README.md"
+
+[badges]
+github = { repository = "https://github.com/jiwonz/catimg" }
 
 [[bin]]
 name = "catimg"
