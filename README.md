@@ -1,5 +1,6 @@
 # catimg
 Cat and Preview your images directly in terminal using [sixel](https://en.wikipedia.org/wiki/Sixel).
+![image](https://github.com/user-attachments/assets/6e64f7ae-07a0-4623-8e27-17feed11648d)
 
 ## Usage
 > [!NOTE]
