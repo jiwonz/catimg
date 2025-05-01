@@ -14,6 +14,10 @@ catimg image-to-preview.jpg
 pesde add jiwonz/catimg -t lune
 pesde install
 ```
+or directly run
+```sh
+pesde x jiwonz/catimg -- image-to-preview.jpg
+```
 
 ### via cargo
 ```sh
